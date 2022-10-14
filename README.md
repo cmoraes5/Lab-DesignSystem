@@ -1,13 +1,31 @@
-# Lab_DesignSystem
-==================
+<div align="center">
 
-For take some look in the Design system, you can pass these commands bellow
+# Ignite Lab - Design System
 
-`npm i` 
-(For install all dependecies)
+</div>
 
-`npm run dev`
-(For run th aplication on browser)
 
-`npm run storybook`
-(For run the storybook complete in your browser)
+### For take some look in the Design system, you can pass these commands bellow
+
+
+<ul>
+  <li>
+  
+    npm i
+  </li>
+
+  <li>
+  
+    npm run dev
+  </li>
+
+ 
+    
+  <li>
+  
+    npm run storybook
+  </li>
+
+  
+
+</ul>
