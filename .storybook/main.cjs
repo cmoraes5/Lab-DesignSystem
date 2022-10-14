@@ -22,7 +22,7 @@ module.exports = {
   ],
   viteFinal: (config, {configType}) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/Lab-DesignSystem'
+      config.base = '/Lab_DesignSystem/'
     }
 
     return config
