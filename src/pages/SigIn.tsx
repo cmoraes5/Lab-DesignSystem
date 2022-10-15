@@ -73,7 +73,7 @@ export function SigIn() {
           </Button>
         </form>
   
-        <footer className="flex flex-col items-center gap-4 mt-8 mb-8 h-[100%]">
+        <footer className="flex flex-col items-center gap-4 mt-8 mb-2">
           <Text asChild size="sm">
             <a href="" className="text-gray-400 underline transition-colors hover:text-gray-200">Esqueceu sua senha?</a>
           </Text>
