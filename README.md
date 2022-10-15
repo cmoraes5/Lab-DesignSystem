@@ -4,8 +4,21 @@
 
 </div>
 
+<br />
+<br />
 
-### For take some look in the Design system, you can pass these commands bellow
+## Check out the projects
+
+<a href="https://www.figma.com/file/btMUBpdTFtoLzyAfYoBG4C/Ignitye-Lab-Design-System?node-id=0%3A1" target="_blank">Figma project</a>
+
+<a href="https://cmoraes5.github.io/Lab_DesignSystem/" target="_blank">Storybook</a>
+
+<a href="https://cmvs-ignitelabds.netlify.app/" target="_blank">Project App</a>
+
+<br />
+
+
+### For take some look in the Design system, you can clone this repo and pass these commands bellow
 
 
 <ul>
@@ -28,11 +41,5 @@
 
 </ul>
 
-## Check out too, these two links 
 
-<a href="https://www.figma.com/file/btMUBpdTFtoLzyAfYoBG4C/Ignitye-Lab-Design-System?node-id=0%3A1" target="_blank">Figma project</a>
-
-<a href="https://cmoraes5.github.io/Lab_DesignSystem/" target="_blank">Storybook</a>
-
-<a href="https://cmvs-ignitelabds.netlify.app/" target="_blank">Project App</a>
 
