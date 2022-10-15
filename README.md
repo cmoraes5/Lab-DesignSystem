@@ -34,5 +34,5 @@
 
 <a href="https://cmoraes5.github.io/Lab_DesignSystem/" target="_blank">Storybook</a>
 
-<a href="https://cmvs-ignitelabds.netlify.app/" target="_blank">Storybook</a>
+<a href="https://cmvs-ignitelabds.netlify.app/" target="_blank">Project App</a>
 
